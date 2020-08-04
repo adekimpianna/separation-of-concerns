@@ -18,14 +18,22 @@ examples and exercises to illustrate how JS can be integrated with HTML & CSS to
   - /exercises
     - <a href="./02-read-write-dom/exercises/2-guessing-game-demo.html" target="_blank">/2-guessing-game-demo.html</a>
     - <a href="./02-read-write-dom/exercises/2-guessing-game.html" target="_blank">/2-guessing-game.html</a>
-- /05-event-delegation
+- /03-event-delegation
   - /examples
-    - <a href="./05-event-delegation/examples/0-event-parameter.html" target="_blank">/0-event-parameter.html</a>
-    - <a href="./05-event-delegation/examples/1-change-text-loop.html" target="_blank">/1-change-text-loop.html</a>
-    - <a href="./05-event-delegation/examples/2-change-text-delegation.html" target="_blank">/2-change-text-delegation.html</a>
-    - <a href="./05-event-delegation/examples/3-tic-tac-toe.html" target="_blank">/3-tic-tac-toe.html</a>
+    - <a href="./03-event-delegation/examples/1-event-target.html" target="_blank">/1-event-target.html</a>
+    - <a href="./03-event-delegation/examples/2-event-composed-path.html" target="_blank">/2-event-composed-path.html</a>
+    - <a href="./03-event-delegation/examples/3-event-current-target.html" target="_blank">/3-event-current-target.html</a>
+    - <a href="./03-event-delegation/examples/4-event-delegation.html" target="_blank">/4-event-delegation.html</a>
+    - <a href="./03-event-delegation/examples/5-change-text-loop.html" target="_blank">/5-change-text-loop.html</a>
+    - <a href="./03-event-delegation/examples/6-change-text-delegation.html" target="_blank">/6-change-text-delegation.html</a>
+    - <a href="./03-event-delegation/examples/7-tic-tac-toe.html" target="_blank">/7-tic-tac-toe.html</a>
   - /exercises
-    - <a href="./05-event-delegation/exercises/list.html" target="_blank">/list.html</a>
+    - <a href="./03-event-delegation/exercises/1-keyboard-navigation-demo.html" target="_blank">/1-keyboard-navigation-demo.html</a>
+    - <a href="./03-event-delegation/exercises/1-keyboard-navigation.html" target="_blank">/1-keyboard-navigation.html</a>
+    - <a href="./03-event-delegation/exercises/2-todo-demo.html" target="_blank">/2-todo-demo.html</a>
+    - <a href="./03-event-delegation/exercises/2-todo.html" target="_blank">/2-todo.html</a>
+    - <a href="./03-event-delegation/exercises/3-faq-demo.html" target="_blank">/3-faq-demo.html</a>
+    - <a href="./03-event-delegation/exercises/3-faq.html" target="_blank">/3-faq.html</a>
 - /stepped-and-separated
   - /debugger
     - <a href="./stepped-and-separated/debugger/index.html" target="_blank">/index.html</a>

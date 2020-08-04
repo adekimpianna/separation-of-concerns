@@ -139,6 +139,8 @@ Good luck!
   - [javascript.info/events](https://javascript.info/events)
   - [javascript.inf/event-details](https://javascript.info/event-details)
   - [MDN Building Blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+  - [Event Delegation (mosh)](https://programmingwithmosh.com/javascript/javascript-event-bubbling-and-event-delegation/)
+  - [Bubble & Capture (dev.to)](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 - Code to Study
   - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
@@ -191,12 +193,14 @@ The focus of week 1 is using _event listeners_, _event handlers_ and _DOM elemen
   - [isolate/01-dom-elements](../isolate/01-dom-elements)
   - [integrate/01-add-event-listener](../integrate/01-add-event-listener)
 
-### Isolate
+### Lesson Plan
+
+#### Isolate
 
 - [isolate/01-dom-elements](../isolate/01-dom-elements)
 - [isolate/02-read-write-dom](../isolate/02-read-write-dom)
 
-### Integrate
+#### Integrate
 
 - [integrate/01-add-event-listener](../integrate/01-add-event-listener)
 - [integrate/02-read-write-dom](../integrate/02-read-write-dom)
@@ -218,7 +222,7 @@ No need to stop at 1 project! If your team is on a roll, keep going.  There's a 
 - [ ] [One branch per step in `development-strategy.md`](https://github.com/_/_/network)
 - [ ] [One closed issue per task](https://github.com/_/_/issues?q=is%3Aissue+is%3Aclosed) (you can have more than task per development step!)
 - [ ] [One closed PR per task issue](https://github.com/_/__/pulls?q=is%3Apr+is%3Aclosed)
-- [ ] [A project board](https://github.com/_/_/projects/X) with all issues moved to "Done"
+- [ ] [A project board](https://github.com/_/_/projects/X)
 ```
 
 [TOP](#separation-of-concerns)
@@ -236,19 +240,23 @@ The focus of week 2 is using forms to handle more gather and process more user d
   - [js.info: Event Delegation](https://javascript.info/event-delegation)
   - [Gordon: DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
   - [Griffith: JS Event Listeners](https://www.youtube.com/watch?v=EaRrmOtPYTM)
-- [Isolate](../isolate/index.html)
+  - [Event Delegation (mosh)](https://programmingwithmosh.com/javascript/javascript-event-bubbling-and-event-delegation/)
+  - [Event Delegation (all things JS)](https://www.youtube.com/watch?v=6NMSCh3DJug)
+  - [Event Delegation (dcode)](https://www.youtube.com/watch?v=pKzf80F3O0U)
+- [Isolate](./isolate/index.html)
   - HTML Templates
   - Element Children
   - DOM Manipulation
-  - Event Parameter
 - [Integrate](../integrate/index.html)
   - Read & Write DOM
 
-### [Isolate](../isolate/index.html)
+### Lesson Plan
+
+#### [Isolate](../isolate/index.html)
 
 - Event Parameter
 
-### [Integrate](../integrate/index.html)
+#### [Integrate](../integrate/index.html)
 
 - Event Delegation
 
@@ -265,7 +273,7 @@ Just like last week, choose a JavaScript 30 project to reverse-engineer as a tea
 - [ ] [One branch per step in `development-strategy.md`](https://github.com/_/_/network)
 - [ ] [One closed issue per task](https://github.com/_/_/issues?q=is%3Aissue+is%3Aclosed) (you can have more than task per development step!)
 - [ ] [One closed PR per task issue](https://github.com/_/__/pulls?q=is%3Apr+is%3Aclosed)
-- [ ] [A project board](https://github.com/_/_/projects/X) with all issues moved to "Done"
+- [ ] [A project board](https://github.com/_/_/projects/X)
 ```
 
 
