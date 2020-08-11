@@ -13,6 +13,7 @@ headerEl.innerHTML = 'Welcome!';
 const pEl = document.createElement('p');
 pEl.innerHTML = 'to HYF Be.';
 
+// insert those two things above inside a div using appendChild
 const divEl = document.createElement('div');
 divEl.appendChild(headerEl);
 divEl.appendChild(pEl);

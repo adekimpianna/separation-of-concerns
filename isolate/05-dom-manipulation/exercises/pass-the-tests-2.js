@@ -11,9 +11,17 @@ console.log(ulEl.nodeName + ' (before)', ulEl.cloneNode(true));
 
 // --- write some code ---
 
+const firstEl= ulEl.children[0];
+firstEl.innerHTML = 'toad';
 
+const createSecondEl = document.createElement('li'); //li
+const getSecondEl = ulEl.children[1]; // p
+ulEl.replaceChild(createSecondEl, getSecondEl) // replace
+const secondEl = ulEl.children[1]; // li
+secondEl.innerHTML = 'frog'; // insert value
 
-
+const forthEl= ulEl.children[3]; // 
+ulEl.removeChild(forthEl);
 
 // --- --- --- --- --- ---
 
